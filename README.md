@@ -1,8 +1,12 @@
 AI & Machine Learning Internship - DevelopersHub
 This repository contains the completed tasks for my AI/ML internship. I have focused on data visualization, classification models, and prompt engineering.
+
 Table of Contents
+
 Task 1:Iris Dataset Visualization
+
 Task 6: Heart Disease Prediction
+
 Task 4: General Health Query Chatbot
 
 Task 1: Iris Dataset Visualization
